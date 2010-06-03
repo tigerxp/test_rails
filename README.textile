@@ -1,2 +1,4 @@
+h1. Test Rails
+
 Testing my project on Rails
 
